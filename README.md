@@ -10,4 +10,4 @@ La carpeta LUNES incluye 3 notebooks.
  La carpeta LUNES incluye 3 notebooks.
   - El primero (M4_06_Bucles.ipynb) incluye un repaso de los bucles for y while en python con ejercicios para practicar.
   - El segundo (SpaceX_1_Data_Collection_Api_v2) incluye los datos de SpaceX, que posteriormente se limpian, se transforman y 
-    finalmente los exportamos a formato .csv
+    finalmente los exportamos a formato .csv.
