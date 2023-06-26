@@ -18,8 +18,13 @@ La carpeta Día 1 incluye 3 notebooks.
    - El segundo (M5_09_Folium) incluye una introducción a librería Folium con la que analizaremos datos geoespaciales.
    - El tercero (Prophet_Predecir_el_valor_de_Bitcoin) incluye el análisis de la evolución del Bitcoin con la librería Prophet.
 
- ## Día 3
+ ## Día 4
  La carpeta Día 4 incluye 3 notebooks.
   - El pimero (M5_SPACEX2_5_Interactive_Visual_Analytics_con_Folium) incluye mapas interactivos donde señalaremos mediante círculoslos puntos donde se lanzan los cohetes y señalar con markers si fueron exitoss o no.
   - El segundo (M5_SPACEX2_6_Machine_Learning_Predicciones) contiene predicciones llevadas a cabo mediante Regresión, Tree Clasificator, KNeighbor para predecir si el cohete lanzado aterrizará o no.
   - El tercero (SpaceX_4_EDA_with_Data_Visualization) analiza los lanzamientos de los cohetes con las diferentes órbitas.
+
+ ## Día 5
+ La carpeta Día 5 incluye 1 notebook.
+ - M5_10_Matplotlib_y_Seaborn incluye la visualización de gráficos con las librerías matplotlib y seaborn con los datos pertenecientes
+   a un dataset de los clientes ideales de una empresa.
